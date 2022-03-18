@@ -8,5 +8,7 @@
  -  Classi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinabitonte/esercitazioni/blob/main/Esercitazione03/013_Classi_easy.ipynb)
  -  Visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinabitonte/esercitazioni/blob/main/Esercitazione03/Visualization.pdf)
 
+ - Esercizi [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/valentinabitonte/esercitazioni/blob/main/Esercitazione03/esercizio_matplot/esercizi_matplot.pdf)
+
 
 
